@@ -1,0 +1,15 @@
+[submodule "antisamples"]
+  path = antisamples
+  url = https://github.com/ProgrammingRust/antisamples.git
+[submodule "async-chat"]
+  path = async-chat
+  url = https://github.com/ProgrammingRust/async-chat.git
+[submodule "examples"]
+  path = examples
+  url = https://github.com/ProgrammingRust/examples.git
+[submodule "fingertips"]
+  path = fingertips
+  url = https://github.com/ProgrammingRust/fingertips.git
+[submodule "mandelbrot"]
+  path = mandelbrot
+  url = https://github.com/ProgrammingRust/mandelbrot.git
